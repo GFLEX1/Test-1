@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {background-color:lightsteelblue}
 
 img {margin-left:16.5px;
@@ -61,3 +62,68 @@ p { text-align:center;
 
 
 
+=======
+body {background-color:lightsteelblue}
+
+img {margin-left:16.5px;
+   
+    margin-top:20px;
+    
+    width:288px;
+    
+    height:297px;
+    
+    border-radius:10px;
+    
+    display: block;  
+
+    padding-top:0px;
+
+}
+
+.position {margin-left:104px;
+            margin-top: 120px;
+            margin-right: 70px;
+            background-color: white;
+            border: 1px solid white;
+            border-radius:20px;
+            width: 320px;
+            height: 497px;
+}
+
+.Gta {
+    
+    height:54px;
+    width:254px;
+    margin-left: 40px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+    padding-bottom:0px;
+    color:hs1(216, 15%, 48%);
+    display: block;
+    padding-bottom: 0px;
+    letter-spacing: 2.5%;
+
+}
+
+
+
+p { text-align:center;
+    width: 254px;
+    height: 57px;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(216, 15%, 48%);
+    padding-left: 20px;
+    padding-top: 0px;
+    line-height: 129%;
+}
+
+
+
+
+>>>>>>> 5bb437680732ca3bc141805e6db2399d2cabcb8c
